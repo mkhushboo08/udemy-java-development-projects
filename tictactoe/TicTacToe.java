@@ -53,8 +53,7 @@ class Fdemo extends Frame implements ActionListener{
 	}
 	
 	public void actionPerformed(ActionEvent e){
-		
-		
+				
 		// For new game
 		if(e.getSource()==b1){
 			for(int i=0; i<=8;i++){
@@ -64,6 +63,8 @@ class Fdemo extends Frame implements ActionListener{
 			a=0;
 			win = false;
 		}
+		
+		if(win) return;
 		
 		//For the 9 buttons
 		if(e.getSource()==b[0] && z==0){
