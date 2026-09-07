@@ -21,7 +21,7 @@ problem-solving and programming skills.
 | # | Project | Status |
 |---|---------|--------|
 | 01 | Tic Tac Toe | ✅ Completed |
-| 02 | Coming Soon | ⬜ |
+| 02 | Calculator | ✅ Completed |
 | 03 | Coming Soon | ⬜ |
 | ... | ... | ... |
 | 65 | Coming Soon | ⬜ |
