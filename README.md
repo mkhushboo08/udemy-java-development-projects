@@ -60,7 +60,7 @@ Each project may contain its own source code and supporting files.
 This repository will be updated as I complete each project throughout the
 course.
 
-**Progress: 1 / 65 projects completed**
+**Progress: 3 / 65 projects completed**
 
 ## Goal
 
