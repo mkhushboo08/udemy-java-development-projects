@@ -22,7 +22,7 @@ problem-solving and programming skills.
 |---|---------|--------|
 | 01 | Tic Tac Toe | ✅ Completed |
 | 02 | Calculator | ✅ Completed |
-| 03 | Coming Soon | ⬜ |
+| 03 | Student Profile | ✅ Completed |
 | ... | ... | ... |
 | 65 | Coming Soon | ⬜ |
 
