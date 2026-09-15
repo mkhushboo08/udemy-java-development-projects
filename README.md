@@ -22,7 +22,7 @@ problem-solving and programming skills.
 |---|---------|--------|
 | 01 | Tic Tac Toe | ✅ Completed |
 | 02 | Calculator | ✅ Completed |
-| 03 | Coming Soon | ⬜ |
+| 03 | Student Profile | ✅ Completed |
 | ... | ... | ... |
 | 65 | Coming Soon | ⬜ |
 
@@ -60,7 +60,7 @@ Each project may contain its own source code and supporting files.
 This repository will be updated as I complete each project throughout the
 course.
 
-**Progress: 1 / 65 projects completed**
+**Progress: 3 / 65 projects completed**
 
 ## Goal
 
